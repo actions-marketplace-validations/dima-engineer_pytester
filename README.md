@@ -2,6 +2,8 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org)
 
+The repository [pytester-cov](https://github.com/alexanderdamiani/pytester-cov) was taken as a basis.
+
 ## Python Packages Used
 
 - [`pytest`](https://pypi.org/project/pytest/)
